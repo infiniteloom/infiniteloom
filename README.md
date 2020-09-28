@@ -2,7 +2,23 @@ As a software engineer with a background in music and fine arts, I view every pr
 
 Trained as a full-stack engineer, I'm most interested in front-end development, design and programming with UX/UI in mind. 
 
+Featured projects: 
+### [Haven (live site)](https://haven-homes.netlify.app/#/)
+[Backend repo (Django/Python)](https://github.com/infiniteloom/project4-backend)
+[Frontend repo (Vue.js/Javascript, HTML, Bulma/CSS)](https://github.com/infiniteloom/project4-frontend)
+
+### [Archivista (live site)](https://archivista.netlify.app/)
+[Backend repo (Express, Node.js, Javascript)](https://github.com/infiniteloom/Project-2-Backend)
+[Frontend repo (Bootstrap/CSS, HTML, Javascript, jQuery)](https://github.com/infiniteloom/Project-2-Frontend)
+
+### [A Music Journal (live site)](https://a-music-journal.netlify.app/)
+[Backend repo(Ruby on Rails/Ruby)](https://github.com/infiniteloom/project-3-backend)
+[Frontend repo(Vue.js/Javascript, HTML, Bootstrap/CSS)](https://github.com/infiniteloom/project-3-frontend)
+
+#### Note: The databases may take 5-10 seconds to load images, etc. Thank you for your patience. 
+
 Visit my artist website at www.lealealea.com
+
 
 
 
