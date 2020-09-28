@@ -4,7 +4,7 @@ As a software engineer with a background in music and fine arts, I view every pr
 
 Trained as a full-stack engineer, I'm most interested in front-end development, design and programming with UX/UI in mind. 
 
-Below are some recent projects I built. 
+Below are some recent projects I have built. 
 
 <sub> _Please note that the databases may take 5-10 seconds to load images, etc. Thank you for your patience._ </sub>
 
