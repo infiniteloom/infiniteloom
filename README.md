@@ -5,10 +5,11 @@ As a software engineer with a background in music and fine arts, I view every pr
 Trained as a full-stack engineer, I'm most interested in front-end development, design and programming with UX/UI in mind. 
 
 
-## Featured projects: 
+### Featured projects: 
 
-<sub> _Note: The databases may take 5-10 seconds to load images, etc. Thank you for your patience._ </sub>
- <br>
+<sub> _Please note that the databases may take 5-10 seconds to load images, etc. Thank you for your patience._ </sub>
+
+<br>
 
 ## [Haven](https://haven-homes.netlify.app/#/)
 
@@ -20,8 +21,7 @@ Trained as a full-stack engineer, I'm most interested in front-end development, 
 
 ![Haven Homepage](https://res.cloudinary.com/infiniteloom/image/upload/v1601322175/Unit%2004%20-%20Project%20-%20Haven/Haven_Live_Site_Homepage.png)
 
-
-
+<br> 
 
 <br> 
 
@@ -37,6 +37,7 @@ Trained as a full-stack engineer, I'm most interested in front-end development, 
 
 <br>
 
+<br>
 
 ## [A Music Journal](https://a-music-journal.netlify.app/)
 
@@ -49,6 +50,9 @@ Trained as a full-stack engineer, I'm most interested in front-end development, 
 ![A Music Journal Homepage](https://res.cloudinary.com/infiniteloom/image/upload/v1601322474/Unit%2003%20-%20Project/Music_journal_Live_Site_home_gw3pox.png)
 
 <br>
+
+<br>
+
 Visit my artist website at www.lealealea.com
 
 
